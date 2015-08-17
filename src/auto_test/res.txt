@@ -1,0 +1,6 @@
+test data size: 40
+correct number: 37
+correct rate: 0.925
+1	11/12:0.916	0:1	
+2	9/11:0.818	0:2	
+0	17/17:1.0	

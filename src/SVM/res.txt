@@ -1,0 +1,6 @@
+test data size: 10
+correct number: 6
+correct rate: 0.6
+0	6/6:1.0	
+1	0/2:0.0	0:2	
+2	0/2:0.0	0:2	
